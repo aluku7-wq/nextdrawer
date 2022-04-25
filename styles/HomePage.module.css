@@ -1,0 +1,7 @@
+/** @format */
+.container {
+  display: flex;
+}
+.container img {
+  width: 40px !important;
+}
